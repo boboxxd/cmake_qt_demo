@@ -1,0 +1,4 @@
+/Users/xuxudong/CLionProjects/testqt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xuxudong/CLionProjects/testqt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xuxudong/CLionProjects/testqt/cmake-build-debug/CMakeFiles/testqt.dir
+/Users/xuxudong/CLionProjects/testqt/cmake-build-debug/CMakeFiles/testqt_autogen.dir

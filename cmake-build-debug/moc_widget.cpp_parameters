@@ -1,0 +1,5 @@
+-I/Users/xuxudong/CLionProjects/testqt
+-I/Users/xuxudong/CLionProjects/testqt/cmake-build-debug
+-o
+/Users/xuxudong/CLionProjects/testqt/cmake-build-debug/moc_widget.cpp
+/Users/xuxudong/CLionProjects/testqt/widget.h

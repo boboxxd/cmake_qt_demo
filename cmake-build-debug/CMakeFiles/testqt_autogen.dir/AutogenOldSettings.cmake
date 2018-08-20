@@ -1,0 +1,3 @@
+set(AM_MOC_OLD_SETTINGS "QT_CORE_LIB;QT_GUI_LIB;QT_WIDGETS_LIB ~~~ /Users/xuxudong/CLionProjects/testqt/cmake-build-debug;/Users/xuxudong/CLionProjects/testqt;/Users/xuxudong/CLionProjects/testqt/cmake-build-debug/testqt_autogen/include;/usr/local/Cellar/qt/5.9.0/lib/QtWidgets.framework;/usr/local/Cellar/qt/5.9.0/lib/QtWidgets.framework/Headers;/usr/local/Cellar/qt/5.9.0/lib/QtGui.framework;/usr/local/Cellar/qt/5.9.0/lib/QtGui.framework/Headers;/System/Library/Frameworks/OpenGL.framework/Headers;/usr/local/Cellar/qt/5.9.0/lib/QtCore.framework;/usr/local/Cellar/qt/5.9.0/lib/QtCore.framework/Headers;/usr/local/Cellar/qt/5.9.0/./mkspecs/macx-clang ~~~  ~~~ FALSE ~~~ ")
+set(AM_UIC_OLD_SETTINGS " ~~~  ~~~ ")
+set(AM_RCC_OLD_SETTINGS " ~~~ ")
